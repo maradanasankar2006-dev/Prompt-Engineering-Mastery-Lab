@@ -1,0 +1,20 @@
+[theme]
+font = "sans-serif"
+baseRadius = "medium"
+showWidgetBorder = true
+paddingTop = "1.5rem"
+paddingBottom = "2rem"
+
+[theme.light]
+primaryColor = "#5546D7"
+backgroundColor = "#FBFAFF"
+secondaryBackgroundColor = "#F0EFF8"
+textColor = "#202033"
+borderColor = "#DDD9ED"
+
+[theme.dark]
+primaryColor = "#8B80FF"
+backgroundColor = "#11111B"
+secondaryBackgroundColor = "#1C1B2A"
+textColor = "#F1F0FA"
+borderColor = "#37354A"
